@@ -13,6 +13,6 @@ The files included are:
 
 ![My final project in AWS](https://pash-p1-udacity.s3.eu-west-3.amazonaws.com/index.html)
 
-![Image of a static web site] (https://github.com/PascalR2014/aws_udacity-starter-website/blob/master/AWS-S3-blog%20site.jpeg "Photo of my blog site in AWS")
+![Image of a static web site](https://github.com/PascalR2014/aws_udacity-starter-website/blob/master/AWS-S3-blog%20site.jpeg "Photo of my blog site in AWS")
 
 Contributor: Pascal Richet
